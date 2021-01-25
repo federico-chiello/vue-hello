@@ -6,6 +6,8 @@ var app = new Vue({
   data: {
     message: 'Ciao a tutti dalla Norvegia',
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAdX8rrmt9-u1L4Jzk61bj6d1fV_HvG1n_5A&usqp=CAU',
-    paesaggio: 'montagna'
+    paesaggio: 'montagna',
+    sfondo: 'blue',
+    colore: 'white'
   }
 });
